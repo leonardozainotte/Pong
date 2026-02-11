@@ -25,5 +25,4 @@ Um clone moderno do clássico **Pong**, desenvolvido em **JavaScript** utilizand
 - `style.css`: Estilização para garantir que o jogo fique centralizado e com visual retrô.
 
 ## 👤 Autor
-**Leonardo Zainotte**
-*Desenvolvedor de Sistemas*
+**Leonardo Zainotte | Desenvolvedor de Sistemas**
