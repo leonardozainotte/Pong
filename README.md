@@ -26,4 +26,4 @@ Um clone moderno do clássico **Pong**, desenvolvido em **JavaScript** utilizand
 
 ## 👤 Autor
 **Leonardo Zainotte**
-**Desenvolvedor de Sistemas**
+*Desenvolvedor de Sistemas*
